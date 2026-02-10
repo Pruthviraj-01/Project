@@ -16,7 +16,6 @@ Confidence Analysis: A percentage-based accuracy score for the prediction.
 
 Guidance: Basic suggestions on necessary follow-up actions
 
-<img width="3999" height="1178" alt="image" src="https://github.com/user-attachments/assets/129fd26e-7f02-4c22-b40f-6cdf51540f2b" />
 
 ## Technologies Used
 The system is built using a modern AI stack:
@@ -154,19 +153,23 @@ Project Screenshot
 
 Home Page 
 
-<img width="950" height="440" alt="image" src="https://github.com/user-attachments/assets/1d3866d2-1dd1-4db4-b182-a417823c0205" />
+<img width="403" height="187" alt="image" src="https://github.com/user-attachments/assets/f638aff9-d1de-4123-987a-b66e149a17c7" />
+
 
 About 
 
-<img width="951" height="441" alt="image" src="https://github.com/user-attachments/assets/efaa0d35-4fc0-4dac-8eac-ddcdd2794fbe" />
+<img width="401" height="187" alt="image" src="https://github.com/user-attachments/assets/2d3dd828-50f9-49f9-a15b-ab0f065568b7" />
+
 
 Nail Predication Page 
 
-<img width="951" height="440" alt="image" src="https://github.com/user-attachments/assets/a33bd120-54f2-4461-a0dd-b0047c5cbdbb" />
+<img width="403" height="188" alt="image" src="https://github.com/user-attachments/assets/99e5ffad-8f62-47c5-9388-ba54d8f30514" />
+
 
 Final Output 
 
-<img width="960" height="439" alt="image" src="https://github.com/user-attachments/assets/dce8b167-0337-423f-8d04-f53cc170542e" />
+<img width="404" height="185" alt="image" src="https://github.com/user-attachments/assets/a79f2e8c-a201-421e-aeee-0ca2abc70a79" />
+
 
 Conclusion
 
