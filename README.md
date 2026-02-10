@@ -103,11 +103,38 @@ Important: This system is not a replacement for professional medical advice or d
 
 Expanding Data: Adding more nail disease categories for broader detection.
 
-
 Telehealth Integration: Adding features for direct doctor consultations.
 
-
 Mobile Support: Developing a dedicated mobile application version.
+
+Cloud Deployment: Moving the system to a live online environment.
+
+## Project Screenshots 
+
+## Home page 
+
+<img width="401" height="187" alt="image" src="https://github.com/user-attachments/assets/fad6ddbc-01c0-4735-a695-ab95221b014f" />
+
+## About Page 
+
+<img width="403" height="185" alt="image" src="https://github.com/user-attachments/assets/86c38b88-cdf6-4a0c-b3cf-7fadbc52ffeb" />
+
+## Nails Predection Page
+
+<img width="403" height="185" alt="image" src="https://github.com/user-attachments/assets/24880fb3-1f14-433f-9b0d-1794d709cff8" />
+
+# Final Output Page 
+
+<img width="404" height="185" alt="image" src="https://github.com/user-attachments/assets/06ed3f8a-b919-48c1-a157-4ec5af8e1322" />
+
+
+# Conclusion 
+
+This project successfully demonstrates how deep learning and image processing can be used to 
+detect nail diseases from images. By using a CNN model and a Flask-based web application, the 
+system provides an easy-to-use platform for users to upload nail images and get instant predictions 
+along with confidence percentage and basic guidance. This project can be further enhanced and 
+used as a supportive tool in healthcare. 
 
 
 Cloud Deployment: Moving the system to a live online environment.
