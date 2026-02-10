@@ -1,40 +1,3 @@
-# Early-stage-disease-diagnosis-system-using-human-nail-image-processing-using-deep-learning
-
-This repository contains an automated healthcare solution designed to detect and classify nail diseases using Deep Learning and Computer Vision. By analyzing human nail images, the system provides a preliminary diagnosis, helping users identify potential health issues early.
-
-Early Stage Disease Diagnosis System Using Human Nail Image Processing
-This repository contains an automated healthcare solution designed to detect and classify nail diseases using Deep Learning and Computer Vision. By analyzing human nail images, the system provides a preliminary diagnosis, helping users identify potential health issues early.
-
-## Project Overview
-Manual diagnosis of nail conditions often requires a specialist. This project bridges that gap by offering a web-based platform where users can upload a nail image and receive:
-
-Disease Detection: Identification of whether the nail is diseased or healthy.
-
-Classification: Precise identification of the specific disease type.
-
-Confidence Analysis: A percentage-based accuracy score for the prediction.
-
-Guidance: Basic suggestions on necessary follow-up actions
-
-
-## Technologies Used
-The system is built using a modern AI stack:
-
-
-Language: Python 
-
-
-Deep Learning Framework: TensorFlow / Keras 
-
-
-Model Architecture: Convolutional Neural Networks (CNN) 
-
-
-Backend: Flask (Python) 
-
-
-Frontend: HTML, CSS, JavaScript
-
 Early Stage Disease Diagnosis System Using Human Nail Image Processing
 This repository contains an automated healthcare solution designed to detect and classify nail diseases using Deep Learning and Computer Vision. By analyzing human nail images, the system provides a preliminary diagnosis, helping users identify potential health issues early.
 
@@ -53,8 +16,8 @@ Confidence Analysis: A percentage-based accuracy score for the prediction.
 
 Guidance: Basic suggestions on necessary follow-up actions.
 
+<img width="2000" height="589" alt="image" src="https://github.com/user-attachments/assets/e6d96af3-c731-4152-b683-ac5a403c04e9" />
 
-Shutterstock
 ## Technologies Used
 The system is built using a modern AI stack:
 
@@ -148,37 +111,3 @@ Mobile Support: Developing a dedicated mobile application version.
 
 
 Cloud Deployment: Moving the system to a live online environment.
-
-Project Screenshot 
-
-Home Page 
-
-<img width="403" height="187" alt="image" src="https://github.com/user-attachments/assets/f638aff9-d1de-4123-987a-b66e149a17c7" />
-
-
-About 
-
-<img width="401" height="187" alt="image" src="https://github.com/user-attachments/assets/2d3dd828-50f9-49f9-a15b-ab0f065568b7" />
-
-
-Nail Predication Page 
-
-<img width="403" height="188" alt="image" src="https://github.com/user-attachments/assets/99e5ffad-8f62-47c5-9388-ba54d8f30514" />
-
-
-Final Output 
-
-<img width="404" height="185" alt="image" src="https://github.com/user-attachments/assets/a79f2e8c-a201-421e-aeee-0ca2abc70a79" />
-
-
-Conclusion
-
-This project successfully demonstrates how deep learning and image processing can be used to 
-detect nail diseases from images. By using a CNN model and a Flask-based web application, the 
-system provides an easy-to-use platform for users to upload nail images and get instant predictions 
-along with confidence percentage and basic guidance. This project can be further enhanced and 
-used as a supportive tool in healthcare.
-
-
-
-
